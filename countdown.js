@@ -3,7 +3,7 @@ simplyCountdown('#cuenta', {
 	month: 9, // required
 	day: 18, // required
 	hours: 8, // Default is 0 [0-23] integer
-	minutes: 12, // Default is 0 [0-59] integer
+	minutes: 32, // Default is 0 [0-59] integer
 	seconds: 20, // Default is 0 [0-59] integer
 	words: { //words displayed into the countdown
 		days: 'Día',
